@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/Mukesh Lilawat/OneDrive/Documents/System Design/Zomato App Delivery"
+      ],
+      "defines": [],
+      "windowsSdkVersion": "10.0.19041.0",
+      "compilerPath": "C:/MinGW/bin/g++.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
