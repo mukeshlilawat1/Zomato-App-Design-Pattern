@@ -23,6 +23,7 @@ class ZomatoApp {
     }
 
     void initializeRestaurants() {
+        Restaurant*  restaurant1 = new Restaurant("Jodhpur", "Delhi");
         
     }
 }
