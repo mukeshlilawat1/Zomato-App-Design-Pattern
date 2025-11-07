@@ -47,7 +47,7 @@ public:
         }
         else
         {
-            cout << "Please choose a payment mode firs : t" << endl;
+            cout << "Please choose a payment mode first : " << endl;
             return false;
         }
     }
