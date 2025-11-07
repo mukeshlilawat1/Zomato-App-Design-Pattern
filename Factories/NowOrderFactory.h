@@ -32,6 +32,6 @@ class NowOrderFactory : public OrderFactory {
                             return order;
                         }
 
-}
+};
 
 #endif 
